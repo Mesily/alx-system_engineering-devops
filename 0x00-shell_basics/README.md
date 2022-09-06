@@ -1,1 +1,1 @@
-display contents in long format with ids numerically and hidden files
+script that changes the working directory to the user’s home directory
