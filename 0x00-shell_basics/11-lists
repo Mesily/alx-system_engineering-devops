@@ -1,0 +1,5 @@
+#!/bin/bash
+ls -al . .. /boot >> 11-lists
+
+echo ls -al . .. /boot
+ls -al . .. /boot
