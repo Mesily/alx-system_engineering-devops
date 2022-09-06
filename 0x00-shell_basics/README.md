@@ -1,1 +1,1 @@
-Create a script that creates a directory named my_first_directory in the /tmp/ directory
+display contents in long format with ids numerically and hidden files
