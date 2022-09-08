@@ -1,1 +1,1 @@
-My name is betty
+ effective username of the current user.
