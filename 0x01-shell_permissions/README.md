@@ -1,1 +1,1 @@
-executable file
+multiple permission
